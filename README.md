@@ -1,4 +1,4 @@
-# MetroFlow AI — Backend
+# MetroFlow AI 
 
 AI-powered metro operations platform: live train tracking, crowd/demand monitoring, delay & frequency prediction, alerts, and a passenger-facing chatbot — built as a single FastAPI service backed by PostgreSQL and Redis.
 
